@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>IPAddressInfo</name>
+        <order>100</order>
+        <roles>x_336399_iplookup.ipaddressinfo_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-09 05:17:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2d994c351b9d3300ad1c986cbc4bcbe3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IPAddressInfo</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IPLookup" source="x_336399_iplookup">59a0403d1b5d3300ad1c986cbc4bcb98</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">59a0403d1b5d3300ad1c986cbc4bcb98</sys_scope>
+        <sys_update_name>sys_app_application_2d994c351b9d3300ad1c986cbc4bcbe3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-09 05:17:03</sys_updated_on>
+        <title>IPAddressInfo</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
